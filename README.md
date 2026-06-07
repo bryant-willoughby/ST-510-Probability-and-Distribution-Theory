@@ -1,4 +1,4 @@
-# ST-510: Probability and Distribution Theory
+# Stat Theory
 
 ## ST-510 Course Description
 
